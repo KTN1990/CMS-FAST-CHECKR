@@ -364,5 +364,5 @@ print colored ("[FAST CMS CHECKER]",'red on_white'),"\n";
 print colored ("[X]: CODER: KILL THE NET",'red on_white',"\n"); 
 print colored ("[X]: install : cpan Parallel::ForkManager + move to Parallel-ForkManager directory + do this (perl Makefile.PL && make test && make install) or (perl Makefile.PL && dmake test && dmake install) ",'red on_white',"\n"); 
     print "\nUASGE: perl script.pl -u list.txt -t 5 \n\n";
-    cpan Parallel::ForkManager
+
 }
